@@ -1,0 +1,20 @@
+id: PB8BBD1E5
+initial_creation_type: input
+source_metadata:
+  title: Magnetizing Series
+  language: bo
+  description: 'Texts on the theme of magnetizing or bringing under one’s control
+    (dbang du sdud pa):'
+  volume:
+    6b4290c46b6549dbb928b2ceba52201e:
+      title: Magnetizing (Wangdü) Prayer
+      parent: Prayers
+    1c25c594d30b4112877aeee68f072c1d:
+      title: 'Wangdü: The Great Cloud of Blessings—The Prayer which Magnetizes All
+        that Appears and Exists'
+      parent: Prayers
+    d8951b73ee97435b9b8e636f8743fbf4:
+      title: 'Swift Enchantment of the Three Realms: A Sādhana of Red Tārā'
+      parent: Sādhanas
+created_at: '2022-03-01T04:30:45.116934'
+last_modified_at: '2022-03-01T04:30:45.116936'
